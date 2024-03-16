@@ -9,6 +9,3 @@
 -  Basic computer networking
 -  Basic softer engineering
 -  web devlopment
-Abhi-gajera/Abhi-gajera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
