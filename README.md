@@ -6,6 +6,5 @@
 -  Basic java
 -  Basic python
 -  Basic operating system
--  Basic computer networking
 -  Basic softer engineering
 -  web devlopment
